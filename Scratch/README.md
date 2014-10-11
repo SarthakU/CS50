@@ -1,4 +1,4 @@
-This is a silly scratch program I made in scratch for pset1 in CS50. 
+This is a silly scratch program I made in scratch for pset0 in CS50. 
 
 With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
 
